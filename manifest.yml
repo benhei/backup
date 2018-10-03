@@ -1,7 +1,7 @@
 ---
 applications:
 
-- name: hello-world
+- name: backup
   memory: 768M
   timeout: 300
   random-route: true
