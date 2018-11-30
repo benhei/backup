@@ -32,7 +32,7 @@ stages:
 
   productionDeployment:
     cfTargets:
-      - org: 'D056324trial_trial'
+      - org: 'D056324trial_subdom'
         space: 'dev'
         apiEndpoint: 'https://api.cf.eu10.hana.ondemand.com'
         appName: 'backup'
