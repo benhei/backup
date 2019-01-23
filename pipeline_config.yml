@@ -18,7 +18,8 @@
 
 ### General project setup
 general:
-  productiveBranch: 'master'
+  hello: test
+#productiveBranch: 'master'
 
 
 ### Step-specific configuration
